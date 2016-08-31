@@ -4,5 +4,6 @@
  		System.out.printl("HelloWorld.java");
  	}
 
-
+ 	public void test2(){
+ 	}
  }
